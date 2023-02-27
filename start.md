@@ -1,1 +1,3 @@
-# coderdojo
+# MakeCode öffnen
+
+# Kabel anschließen
