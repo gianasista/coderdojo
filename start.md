@@ -1,3 +1,0 @@
-# MakeCode öffnen
-
-# Kabel anschließen
