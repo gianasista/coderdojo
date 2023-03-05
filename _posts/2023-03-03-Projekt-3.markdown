@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Programm 3 - Farben"
+date:   2023-03-03 17:05:16 +0100
+categories: jekyll update
+---
+
+# Wenn Farbe Rot erkannt, rotes Licht leuchten lassen
+
+![Farbe](/assets/Projekt3_Rot.png){:class="img-responsive"}
+
+## Challenge 4
+
+Lass den Roboter gerade aus über die Farbfelder fahren. Immer wenn eine Farbe erkannt wurde, soll das Licht am Roboter entsprechend umschalten.
+* bei gelb: Licht am EV3 orange
+* bei rot: Licht am EV3 rot
+* bei grün: Licht am EV3 grün

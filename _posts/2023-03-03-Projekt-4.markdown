@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Programm 4 - Hindernisse"
+date:   2023-03-03 16:05:16 +0100
+categories: jekyll update
+---
+
+# Hindernisse erkennen
+
+Der Roboter soll fahren und wenn ein Hindernis naht, soll er anhalten.
+
+![Hindernis](/assets/Projekt4_Hindernis.png){:class="img-responsive"}
+
+
+## Challenge 5
+
+Der Roboter soll versuchen das Hindernis zu umfahren, d.h. erst anhalten dann ein Stück zurücksetzen und eine Kurve fahren.
